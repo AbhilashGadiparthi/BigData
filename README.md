@@ -25,6 +25,4 @@ This project focuses on analyzing healthcare costs using advanced analytics and 
 
 ## How to Use
 1. Clone this repository:
-   ```bash
-   git clone [repository-link]
-   cd [repository-folder]
+![repository-link](https://github.com/AbhilashGadiparthi/BigData.git)
